@@ -1,0 +1,25 @@
+body {
+    display: flex;
+    flex-direction: column 
+
+}
+header {
+    flex-direction: column;
+}
+footer {
+    flex-direction: column;
+}
+main {
+    display: flex;
+    flex: auto;
+}
+article {
+    flex:2;
+    overflow-y: auto;
+    flex-direction: row;
+}
+aside {
+    flex:1;
+    overflow-y: auto;
+    flex-direction: row;
+}
