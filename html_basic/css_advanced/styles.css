@@ -1,0 +1,582 @@
+header{
+    position: absolute;
+    width: 1103.41px;
+    height: 29.46px;
+    left: 171.59px;
+    top: 35.02px;
+}
+
+.link1{
+    position: absolute;
+    width: 234px;
+    height: 15px;
+    left: 1041px;
+    top: 37px;
+}
+
+.text0{
+    position: absolute;
+    width: 1440px;
+    height: 1093px;
+    left: 0px;
+    top: 0px;
+    
+}
+
+.pics{
+    flex-direction: row;
+    padding-top: 600px;
+    padding-left: 20px; 
+    padding-right: 40px; 
+    position: relative;
+}
+
+.pic1{
+    position: absolute;
+    left: 15.07%;
+    right: 74.51%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+
+.pic1 h3{
+    position: absolute;
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Source Sans Pro';
+    text-align: center;
+    top: 110px;
+}
+
+.pic1 p{
+    font-family: 'Source Sans Pro';
+    font-size: 5px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.pic1 img{
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+    top: 80px;
+}
+
+.pic2{
+    position: absolute;
+    left: 35.14%;
+    right: 54.44%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+
+.pic2 h3{
+    position: absolute;
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Source Sans Pro';
+    text-align: center;
+    top: 110px;
+}
+
+.pic2 p{
+    font-family: 'Source Sans Pro';
+    font-size: 5px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.pic2 img{
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+}
+
+.pic3{
+    position: absolute;
+    left: 54.65%;
+    right: 34.93%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+
+.pic3 h3{
+    position: absolute;
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Source Sans Pro';
+    text-align: center;
+    top: 110px;
+}
+
+.pic3 p{
+    font-family: 'Source Sans Pro';
+    font-size: 5px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.pic3 img{
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+}
+
+.pic4{
+    position: absolute;
+    left: 74.72%;
+    right: 14.86%;
+    top: 69.35%;
+    bottom: 8.97%;
+}
+
+.pic4 h3{
+    position: absolute;
+    text-align: center;
+    font-size: 19px;
+    font-family: 'Source Sans Pro';
+    text-align: center;
+    top: 110px;
+}
+
+.pic4 p{
+    font-family: 'Source Sans Pro';
+    font-size: 5px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.pic4 img{
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;
+}
+
+.text1 h1{
+    position: absolute;
+    height: 100px;
+    left: 26.18%;
+    right: 26.32%;
+    top: 30px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 151px;
+    text-align: center;
+    color: black;
+}
+
+.text1 p{
+    position: absolute;
+    height: 30px;
+    width: 1500px;
+    top: 200px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    text-align: center;
+    color: black;
+    word-spacing: 30px;
+}
+
+.text1 button{
+    position: absolute;
+    left: 690px;
+    height: 18px;
+    top: 250px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 10px;
+    line-height: 18px;
+    text-align: center;
+    color: black;
+}
+
+.text1 button{
+    background-color:purple;
+    border-radius: 50px;
+    border-top: 20px;
+}
+
+.text2 h2{
+    position: absolute;
+    height: 40px;
+    left: 50px;
+    right: 55px;
+    top: 300px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    text-align: center;
+    color: black;
+}
+
+.color{
+    color: purple;
+}
+
+.sec2{
+    position: absolute;
+    width: 1440px;
+    height: 392px;
+    left: -5px;
+    top: 0px;
+    
+}
+
+.quote{
+    position: absolute;
+    width: 943px;
+    height: 160px;
+    left: 259px;
+    top: 700px;
+}
+
+.myquote {
+    position: absolute;
+    width: 730px;
+    height: 158px;
+    left: 130px;
+    top: 20px;
+}
+
+.quote img{
+    border-radius: 50%;
+    width: 130px;
+    height: 130px;  
+}
+
+.video{
+    position: absolute;
+    width: 1228px;
+    height: 450px;
+    left: 106px;
+    top: 900px;
+}
+
+.popular{
+    color: purple;
+}
+
+.video h1{
+    position: absolute;
+    height: 40px;
+    left: 39.25%;
+    right: 36.81%;
+    top: calc(50% - 40px/2 - 205px);
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 32px;
+    line-height: 40px;
+    text-align: center;
+    color: black;
+}
+
+.tut1{
+    position: absolute;
+    left: 74.43%;
+    right: 4.8%;
+    top: 25.56%;
+    bottom: 0%;
+}
+
+.media{
+    position: absolute;
+    left: 40px;
+    right: 10px;
+    top: 70px;
+    bottom: 20px;
+    mix-blend-mode: normal;
+    opacity: 0.86;
+}
+
+.tut1{
+    position: absolute;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #FFFFFF;
+    box-shadow: 0px 2px 4px rgba(7, 22, 41, 0.178458);
+    border-radius: 5px;
+}
+
+.tut1 h2{
+    position: absolute;
+    height: 20px;
+    left: 8px;
+    right: 53.33%;
+    top: 140px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #071629;
+    text-align: left;
+}
+
+.tut1 p{
+    position: absolute;
+    height: 48px;
+    left: 9px;
+    right: 0%;
+    top: 157px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(7, 22, 41, 0.501584);
+}
+
+.sub img{
+    position: absolute;
+    height: 48px;
+    left: 9px;
+    right: 83.14%;
+    top: 230px;
+    bottom: 13.13%;
+    background: url(Image);
+    border-radius: 50%;
+    padding-top: 10px;
+}
+
+.sub h3{
+    position: absolute;
+    height: 27px;
+    left: 41px;
+    right: 44.31%;
+    top: 230px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 27px;
+    color: #C271FF;
+    padding-top: 10px;
+}
+
+.rate{
+    position: absolute;
+    width: 107px;
+    height: 15px;
+    left: 13px;
+    top: 290px;
+}
+
+.rate p{
+    width: 34px;
+    left: 150px;
+    font-size: 14px;
+    font-weight: 600;
+    top: 0.001px;
+    height: 27px;
+    text-align: right;
+    color: #C271FF;
+}
+
+.rate img{
+    padding-top: 12px;
+}
+
+.tut2{
+    position: absolute;
+    left: 28.01%;
+    right: 51.22%;
+    top: 25.56%;
+    bottom: 0%;
+}
+
+.tut2 p{
+    position: absolute;
+    height: 48px;
+    left: 9px;
+    right: 0%;
+    top: 157px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(7, 22, 41, 0.501584);
+}    
+
+.tut3{
+    position: absolute;
+left: 51.22%;
+right: 28.01%;
+top: 25.56%;
+bottom: 0%;
+}
+
+.tut3 p{
+    position: absolute;
+    height: 48px;
+    left: 9px;
+    right: 0%;
+    top: 157px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(7, 22, 41, 0.501584);
+}
+
+.tut4{
+    position: absolute;
+left: 74.43%;
+right: 4.8%;
+top: 25.56%;
+bottom: 0%;
+}
+
+.tut4 p{
+    position: absolute;
+    height: 48px;
+    left: 9px;
+    right: 0%;
+    top: 157px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: rgba(7, 22, 41, 0.501584);
+}
+
+.tut2 h2{
+    position: absolute;
+    height: 20px;
+    left: 8px;
+    right: 53.33%;
+    top: 140px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #071629;
+    text-align: left
+}
+
+.tut3 h2{
+    position: absolute;
+    height: 20px;
+    left: 8px;
+    right: 53.33%;
+    top: 140px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #071629;
+    text-align: left;
+}
+
+.tut4 h2{
+    position: absolute;
+    height: 20px;
+    left: 8px;
+    right: 53.33%;
+    top: 140px;
+    font-family: 'Source Sans Pro';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    color: #071629;
+    text-align: left;
+}
+
+.tut2{
+    top: 2px;
+}
+
+.tut3{
+    top: 2px;
+}
+
+.tut4{
+    top: 2px;
+}
+
+.rate1 p{
+    width: 34px;
+    left: 150px;
+    font-size: 14px;
+    font-weight: 600;
+    top: 0.001px;
+    height: 27px;
+    text-align: right;
+    color: #C271FF;
+    padding-top: 283px;
+}
+
+.rate1{
+    padding-top: 155px;
+}
+
+.rate2 p{
+    width: 34px;
+    left: 150px;
+    font-size: 14px;
+    font-weight: 600;
+    top: 0.001px;
+    height: 27px;
+    text-align: right;
+    color: #C271FF;
+    padding-top: 283px;
+}
+
+.rate2{
+    padding-top: 149px;
+}
+
+.rate3 p{
+    width: 34px;
+    left: 150px;
+    font-size: 14px;
+    font-weight: 600;
+    top: 0.001px;
+    height: 27px;
+    text-align: right;
+    color: #C271FF;
+    padding-top: 285px;
+}
+
+.rate3{
+    padding-top: 155px;
+}
+
+.sec4 h1{
+    position: absolute;
+height: 40px;
+left: 42.85%;
+right: 40.9%;
+top: 1200px;
+font-family: 'Source Sans Pro';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 40px;
+text-align: center;
+color: #C271FF;
+}
+
+.smile1{
+    position: absolute;
+left: 11.39%;
+right: 70.76%;
+top: 1350px;
+bottom: 36.06%;
+}
+
+.smile1
